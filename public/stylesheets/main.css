@@ -1,0 +1,18 @@
+body {
+	overflow-x: hidden;	
+}
+
+.favicon{
+	position: absolute;
+	left: 3%;
+	bottom: 20%;
+}
+.shi{
+	
+	font-size: 7.4vw;
+	color: magenta;
+}
+.he{
+	background-image: url(../img/bucky.png) ;
+	background-size: 100%;
+}
